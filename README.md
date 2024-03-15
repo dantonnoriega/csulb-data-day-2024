@@ -7,11 +7,11 @@ A collection of links and materials relevant to Danton Noriega-Goodwin's Breakou
 A Posit Cloud account is required to participate in the Breakout Session.
 
 1. [Join Posit Cloud Workspace (481345) for the Breakout Session](https://posit.cloud/spaces/481345/join?access_code=OWTfflhnFL9suhf5_VzxftqMS22roQhLDQIdGFWg)
-  - Create a Posit Cloud if necessary
-  - Note that you can sign in with your Google account
+    - Create a Posit Cloud if necessary
+    - Note that you can sign in with your Google account
 2. Confirm you've joined Workspace ["Danton's Breakout Session – CSULB Data Day at the Beach 2024"](https://posit.cloud/spaces/481345)
 3. [Create a new Project from a Template](https://posit.cloud/learn/guide#create-project-from-template)
-  - Select _"Template for Danton's Breakout Session"_
+    - Select _"Template for Danton's Breakout Session"_
 
 ## Resources 
 
