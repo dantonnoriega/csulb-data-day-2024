@@ -17,6 +17,7 @@ git push origin --delete gh-pages
 # 5. push changes and come back to `main`
 git subtree push --prefix docs origin gh-pages
 git checkout main
+git stash
 
 # 6. remove gh-pages local branch
 git branch -D gh-pages
