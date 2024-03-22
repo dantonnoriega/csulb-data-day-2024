@@ -8,6 +8,10 @@ A collection of links and materials relevant to Danton Noriega-Goodwin's Breakou
 
 * [https://dantonnoriega.github.io/csulb-data-day-2024/slides.html](https://dantonnoriega.github.io/csulb-data-day-2024/slides.html)
 
+### Completed `get-etf_holdings_data.R` script
+
+* *TODO* AFTER SESSION
+
 ## Posit Cloud
 
 A Posit Cloud account is required to participate in the Breakout Session.
