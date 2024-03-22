@@ -42,7 +42,8 @@ format:
 
 # Posit Cloud {.center}
 
-[https://tinyurl.com/dantondd24](https://tinyurl.com/dantondd24)
+* Make a Posit Cloud account  
+  [https://tinyurl.com/dantondd24](https://tinyurl.com/dantondd24)
 
 ## Learning Goals
 
@@ -78,8 +79,8 @@ ETF websites are *purposefully* annoying.
 
 . . .
 
-- Cumbersome to accessing ETF portfolios (holdings)
-- Impossible to do even basic analytics and comparisons
+- Cumbersome to access ETF portfolios (holdings)
+- Impossible to do basic analysis and comparisons
 - Often trying to upsell you or make you pay to access information
 
 ## Solution {.center}
