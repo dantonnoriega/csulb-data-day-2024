@@ -9,7 +9,7 @@ git rm --cached .gitignore README.md
 quarto render danton-csulb-data-day-2024.qmd --to revealjs
 
 # 3. add slides.html then commit
-git add slides.html danton-csulb-data-day-2024_files
+git add -f slides.html danton-csulb-data-day-2024_files
 git commit -m "slides render $(date '+%FT%T')"
 
 # 4. delete upstream `gh-pages`
