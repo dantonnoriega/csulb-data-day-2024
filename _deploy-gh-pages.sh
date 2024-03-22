@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # Refresh / Create / Deploy gh-pages
 
 # 1. checkout orphaned branch; remove README and .gitignore
