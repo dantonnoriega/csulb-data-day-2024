@@ -5,8 +5,6 @@ author: "<b>Danton Noriega-Goodwin</b>"
 date: "March 23, 2024"
 format: 
   revealjs:
-    output-file: "slides.html"
-    output-dir: docs
     logo: img/long-beach-data-science-csun-logo-300px.png
     footer: "Data Data at the Beach 2024"
     include-in-header: 
