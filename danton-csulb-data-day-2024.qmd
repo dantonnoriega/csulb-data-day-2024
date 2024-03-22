@@ -66,7 +66,7 @@ Experience with, and exposure to, the following
 
 ### Goal
 
-Select the smallest set of ETFs (or Mutual Funds) that acheives
+Select the smallest set of ETFs (or Mutual Funds) that achieves
 
 1. Diversification
 2. Minimal cost
@@ -78,9 +78,9 @@ ETF websites are *purposefully* annoying.
 
 . . .
 
-- Cumbersome to access ETF portfolios (holdings)
+- Cumbersome to access ETF portfolios (holdings) data
 - Impossible to do basic analysis and comparisons
-- Often trying to upsell you or make you pay to access information
+- Make you pay to access additional information
 
 ## Solution {.center}
 
@@ -93,7 +93,7 @@ ETF websites are *purposefully* annoying.
 Design an R program that
 
 * Takes ETF tickers (e.g. `VOO`) as inputs
-* Fetchings ETF holdings data from the API
+* Fetches ETF holdings data from the API
 * Processes and returns a nested dataframe of holdings data
   * e.g. dataframe with columns  
     `ticker<chr>, data<list>`
@@ -102,12 +102,10 @@ Design an R program that
 
 ## ☁️ Posit Cloud
 
-* Create Posit Cloud account and join Workspace `481345`  
+* Create Posit Cloud account and join [Workspace `481345`](https://posit.cloud/spaces/481345)
   * Invitation Link: [https://tinyurl.com/dantondd24](https://tinyurl.com/dantondd24)
-  * Confirm Workspace: [https://posit.cloud/spaces/481345](https://posit.cloud/spaces/481345)
 * Start a *New Project* from **_Template for Danton's Breakout Session_**
   * Blue Rectangle, Top Right > Click "New Project" > Select "New Project from Template"
-  * Templates Appear, Select "__*Template for Danton's Breakout Session*__"
 * Once project deploys, open R Script:  
   `get-etf_holdings_data.R`
 
