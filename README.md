@@ -2,6 +2,12 @@
 
 A collection of links and materials relevant to Danton Noriega-Goodwin's Breakout Session on Saturday, 2024-03-23, from 11:15 am - 12:15 pm in LA5.
 
+## Presentation / Slides
+
+### Breakout session slides  
+
+* [https://dantonnoriega.github.io/csulb-data-day-2024/slides.html](https://dantonnoriega.github.io/csulb-data-day-2024/slides.html)
+
 ## Posit Cloud
 
 A Posit Cloud account is required to participate in the Breakout Session.
