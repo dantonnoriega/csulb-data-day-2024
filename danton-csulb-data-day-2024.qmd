@@ -39,7 +39,7 @@ format:
 
 # Breakout Session
 
-# Posit Cloud {.center}
+# ☁️ Posit Cloud {.center}
 
 * Make a Posit Cloud account  
   [https://tinyurl.com/dantondd24](https://tinyurl.com/dantondd24)
