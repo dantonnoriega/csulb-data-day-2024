@@ -4,7 +4,6 @@
 # 1. checkout orphaned branch; remove README and .gitignore
 git checkout --orphan gh-pages
 git rm --cached .gitignore README.md
-git clean -f
 
 # 2. generate slides
 quarto render danton-csulb-data-day-2024.qmd --to revealjs
