@@ -1,0 +1,118 @@
+---
+title: "Hacking Your Way to a Diversified Portfolio"
+subtitle: "Live Coding in R and Exploring ETF APIs"
+author: "<b>Danton Noriega-Goodwin</b>"
+date: "March 23, 2024"
+format: 
+  revealjs:
+    logo: img/long-beach-data-science-csun-logo-300px.png
+    footer: "Data Data at the Beach 2024"
+    include-in-header: 
+      text: |
+        <style>
+        .v-center-container {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 90%;
+        </style>
+---
+
+## About Me 
+
+:::: {.columns .v-center-container}
+
+::: {.column width="40%"}
+![](img/danton-profile.png){width="400px"}
+:::
+
+::: {.column width="60%"}
+- **Danton Noriega-Goodwin**  
+  Staff Data Scientist, Apple
+- **PhD in Public Policy & Economics**  
+  Duke University (2019)
+- **MS in Applied Statistics**  
+  Cal State Long Beach (2011)
+:::
+
+::::
+
+# Breakout Session
+
+# Posit Cloud {.center}
+
+[https://tinyurl.com/dantondd24](https://tinyurl.com/dantondd24)
+
+## Learning Goals
+
+Experience with, and exposure to, the following
+
+. . .
+
+- R Programming
+- Browser Developer View (Chrome & Safari)
+- APIs
+- Mutual and Exchange Traded Funds (ETFs)
+
+# Motivation
+
+## Personal Finance
+
+- Maximize Annual Roth IRA Contribution
+- General Portfolio Diversification (`AAPL -> ETFs`)
+
+. . .
+
+### Goal
+
+Select the smallest set of ETFs (or Mutual Funds) that acheives
+
+1. Diversification
+2. Minimal cost
+3. Balanced Risk
+
+## Problem
+
+ETF websites are *purposefully* annoying.
+
+. . .
+
+- Cumbersome to accessing ETF portfolios (holdings)
+- Impossible to do even basic analytics and comparisons
+- Often trying to upsell you or make you pay to access information
+
+## Solution {.center}
+
+*Find a website with an API that is easy to access and reverse engineer.*
+
+# 👀 [etf.com](https://www.etf.com)
+
+## Approach
+
+Design an R program that
+
+* Takes ETF tickers (e.g. `VOO`) as inputs
+* Fetchings ETF holdings data from the API
+* Processes and returns a nested dataframe of holdings data
+  * e.g. dataframe with columns  
+    `ticker<chr>, data<list>`
+
+# 🤘 Let's Rock 🎸 {.center}
+
+## ☁️ Posit Cloud
+
+* Create Posit Cloud account and join Workspace `481345`  
+  * Invitation Link: [https://tinyurl.com/dantondd24](https://tinyurl.com/dantondd24)
+  * Confirm Workspace: [https://posit.cloud/spaces/481345](https://posit.cloud/spaces/481345)
+* Start a *New Project* from **_Template for Danton's Breakout Session_**
+  * Blue Rectangle, Top Right > Click "New Project" > Select "New Project from Template"
+  * Templates Appear, Select "__*Template for Danton's Breakout Session*__"
+* Once project deploys, open R Script:  
+  `get-etf_holdings_data.R`
+
+# Resources
+
+* Find everything from today!  
+  [**👩🏽‍💻 github.com/dantonnoriega/csulb-data-day-2024**](https://github.com/dantonnoriega/csulb-data-day-2024)
+* Stay in touch!  
+  [**🌐 danton.codes**](http://danton.codes)

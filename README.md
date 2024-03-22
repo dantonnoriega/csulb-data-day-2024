@@ -18,14 +18,20 @@ A Posit Cloud account is required to participate in the Breakout Session.
 ### Programming
 
 - Software Engineering
+  - Integrated Development Environments (IDEs)
+    - [Visual Studio Code](https://code.visualstudio.com)
+    - [RStudio Desktop](https://posit.co/download/rstudio-desktop/)
   - [Shell (`bash`) programming](https://datascienceatthecommandline.com)
     - fast, universal, and timeless
     - `awk`, `sed`, `less`, `tr`, `grep`, `cut`, `sort`, `cat`
   - Open Source scripting languages
-    - `python`, `R`, `julia`
-  - Version Control
+    - [`python`](https://wesmckinney.com/book/)
+    - [`julia`](https://julialang.org)
+    - [`R`](https://r4ds.hadley.nz)
+  - [Version Control](https://happygitwithr.com)
     - `git`, Github or gitlab
-  - Regular Expressions
+  - [Professionalism and Workflows](https://vdsbook.com/01-veridical_ds)
+  - [Regular Expressions](https://regex101.com)
   - Unit Testing
 - Data & Analytics Engineering
   - Simple Data Structures and formats
@@ -38,20 +44,24 @@ A Posit Cloud account is required to participate in the Breakout Session.
     - [`dbt` and `SQL`](https://www.getdbt.com)
     - `scala`, `python`, `java` (if you're brave)
 - Reproducibility
+  - Notebooks
+    - [Quarto](https://quarto.org)
+    - [Jupyter](https://jupyter.org)
   - [GNU Make](https://www.gnu.org/software/make/)
   - [`targets` R package](https://docs.ropensci.org/targets/)
-  - RMarkdown & Jupyter Notebooks
   - [**Docker**](https://github.com/RamiKrispin/vscode-r)
 
 ### Personal Finances
 
-**Roth IRA**
+#### Roth IRA
+
 Learn more about opening a Roth IRA retirement account.
 
 - [Vanguard Roth IRA](https://investor.vanguard.com/accounts-plans/iras/roth-ira)
 - [Fidelity Roth IRA](https://www.fidelity.com/retirement-ira/overview)
 
-**Low-Cost, No-Load Funds (Mutual and Exchange-Traded Funds (ETFs)**
+#### Low-Cost, No-Load Funds (Mutual and Exchange-Traded Funds (ETFs)
+
 Learn more about low-cost, no-load funds.
 
 - The [Long Bet](https://longbets.org/362/)
