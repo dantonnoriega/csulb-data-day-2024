@@ -1,13 +1,14 @@
 # Refresh / Create / Deploy gh-pages
 
-# 1. checkout orphaned branch
+# 1. checkout orphaned branch; remove README and .gitignore
 git checkout --orphan gh-pages
+git rm --cached .gitignore README.md
+git clean -f
 
 # 2. generate slides
 quarto render danton-csulb-data-day-2024.qmd --to revealjs
 
-# 3. remove README and .gitignore; add slides.html then commit
-git rm --cached .gitignore README.md
+# 3. add slides.html then commit
 git add slides.html danton-csulb-data-day-2024_files
 git commit -m "slides render $(date '+%FT%T')"
 
