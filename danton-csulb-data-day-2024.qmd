@@ -39,6 +39,16 @@ format:
 
 # Breakout Session
 
+## Overview
+
+. . .
+
+- Posit Cloud
+- Goals & Motivation
+- Problem & Solution
+- Approach
+- Hack & Code!
+
 ## ⚠️ First Things First... {.center}
 
 . . .
@@ -68,7 +78,7 @@ Experience with, and exposure to, the following
 
 . . .
 
-### Goal
+### Research Goal
 
 Select the smallest set of ETFs (or Mutual Funds) that achieves
 
@@ -117,6 +127,39 @@ Design an R program that
   `get-etf_gh_files.R`
 
 # 🤘 Let's Rock 🎸 {.center}
+
+## Hack
+
+### Browser *Web Inspector*
+
+- Safari
+  - *Preferences (`cmd+.`) > Advanced > "Show Web Features for Web Developers"*
+  - Menu *Develop > Show Web Inspector (`cmd+alt+i`)*
+- Chrome
+  - Menu *View > Developr > View Source (`cmd+alt+i`)*
+
+## Hack
+
+### Inspect `etf.com/voo`
+
+- Go to [etf.com/VOO](https://www.etf.com/VOO)
+  - *View Source / Show Web Inspector* (`cmd+alt+i `)
+  - Go to *Network*
+- Click *Holdings*
+  - Scroll down to *View All*
+- Web Inspector filter to *"XHR/Fetch"*
+  - Find `holdings`
+  - Right-click *"Copy as cURL"*
+- Paste in Posit Cloud!
+
+## Code
+
+- Posit Cloud: https://posit.cloud/spaces/481345/
+- Open R scripts
+  - `get-etf_fund_holdings.R`
+  - `get-etf_gh_files.R`
+ 
+### 🧑‍💻 Let's code.
 
 # Resources
 
