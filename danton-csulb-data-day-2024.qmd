@@ -39,9 +39,13 @@ format:
 
 # Breakout Session
 
-# ☁️ Posit Cloud {.center}
+## ⚠️ First Things First... {.center}
 
-* Make a Posit Cloud account  
+. . .
+
+### ☁️ Posit Cloud
+
+✅ Make a Posit Cloud account  
   [https://tinyurl.com/dantondd24](https://tinyurl.com/dantondd24)
 
 ## Learning Goals
@@ -84,7 +88,7 @@ ETF websites are *purposefully* annoying.
 
 ## Solution {.center}
 
-*Find a website with an API that is easy to access and reverse engineer.*
+*Find a website with an API that is easy to reverse engineer.*
 
 # 👀 [etf.com](https://www.etf.com)
 
@@ -98,16 +102,21 @@ Design an R program that
   * e.g. dataframe with columns  
     `ticker<chr>, data<list>`
 
-# 🤘 Let's Rock 🎸 {.center}
+## 🚧 Cloudflare – `403 Forbidden` 😭 {.center}
+
+(Practicing with Github files instead)
+
 
 ## ☁️ Posit Cloud
 
-* Create Posit Cloud account and join [Workspace `481345`](https://posit.cloud/spaces/481345)
+* Create Posit Cloud account and join [Workspace **481345**](https://posit.cloud/spaces/481345)
   * Invitation Link: [https://tinyurl.com/dantondd24](https://tinyurl.com/dantondd24)
 * Start a *New Project* from **_Template for Danton's Breakout Session_**
   * Blue Rectangle, Top Right > Click "New Project" > Select "New Project from Template"
 * Once project deploys, open R Script:  
-  `get-etf_holdings_data.R`
+  `get-etf_gh_files.R`
+
+# 🤘 Let's Rock 🎸 {.center}
 
 # Resources
 
