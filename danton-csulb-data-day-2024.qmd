@@ -115,7 +115,7 @@ Design an R program that
 [Session is complete, but here are the scripts!]
 
 - [`get-etf_fund_holdings.r`](https://github.com/dantonnoriega/csulb-data-day-2024/blob/main/R/get-etf_fund_holdings.r)
-- [`get-etf_gh_files.r`](https://github.com/dantonnoriega/csulb-data-day-2024/blob/main/R/get-etf_gh_files.R)
+- [`get-etf_gh_files.r`](https://github.com/dantonnoriega/csulb-data-day-2024/blob/main/R/get-etf_gh_files.r)
  
 ### 🧑‍💻 Let's code.
 
