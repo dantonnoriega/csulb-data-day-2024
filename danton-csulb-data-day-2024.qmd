@@ -18,45 +18,17 @@ format:
         </style>
 ---
 
-## About Me 
-
-:::: {.columns .v-center-container}
-
-::: {.column width="40%"}
-![](img/danton-profile.png){width="400px"}
-:::
-
-::: {.column width="60%"}
-- **Danton Noriega-Goodwin**  
-  Staff Data Scientist, Apple
-- **PhD in Public Policy & Economics**  
-  Duke University (2019)
-- **MS in Applied Statistics**  
-  Cal State Long Beach (2011)
-:::
-
-::::
-
 # Breakout Session
 
 ## Overview
 
 . . .
 
-- Posit Cloud
-- Goals & Motivation
+
+- Learning Goals & Motivation
 - Problem & Solution
 - Approach
 - Hack & Code!
-
-## ⚠️ First Things First... {.center}
-
-. . .
-
-### ☁️ Posit Cloud
-
-✅ Make a Posit Cloud account  
-  [https://tinyurl.com/dantondd24](https://tinyurl.com/dantondd24)
 
 ## Learning Goals
 
@@ -112,20 +84,6 @@ Design an R program that
   * e.g. dataframe with columns  
     `ticker<chr>, data<list>`
 
-## 🚧 Cloudflare – `403 Forbidden` 😭 {.center}
-
-(Practicing with Github files instead)
-
-
-## ☁️ Posit Cloud
-
-* Create Posit Cloud account and join [Workspace **481345**](https://posit.cloud/spaces/481345)
-  * Invitation Link: [https://tinyurl.com/dantondd24](https://tinyurl.com/dantondd24)
-* Start a *New Project* from **_Template for Danton's Breakout Session_**
-  * Blue Rectangle, Top Right > Click "New Project" > Select "New Project from Template"
-* Once project deploys, open R Script:  
-  `get-etf_gh_files.R`
-
 # 🤘 Let's Rock 🎸 {.center}
 
 ## Hack
@@ -133,10 +91,10 @@ Design an R program that
 ### Browser *Web Inspector*
 
 - Safari
-  - *Preferences (`cmd+.`) > Advanced > "Show Web Features for Web Developers"*
+  - Menu *Settings (`cmd+,`) > Advanced > "Show Web Features for Web Developers"*
   - Menu *Develop > Show Web Inspector (`cmd+alt+i`)*
 - Chrome
-  - Menu *View > Developr > View Source (`cmd+alt+i`)*
+  - Menu *View > Developer > "Developer Tools" (`cmd+alt+i`)*
 
 ## Hack
 
@@ -150,14 +108,14 @@ Design an R program that
 - Web Inspector filter to *"XHR/Fetch"*
   - Find `holdings`
   - Right-click *"Copy as cURL"*
-- Paste in Posit Cloud!
+- Paste and interrogate
 
 ## Code
 
-- Posit Cloud: https://posit.cloud/spaces/481345/
-- Open R scripts
-  - `get-etf_fund_holdings.R`
-  - `get-etf_gh_files.R`
+[Session is complete, but here are the scripts!]
+
+- [`get-etf_fund_holdings.R`](R/get-etf_fund_holdings.R)
+- [`get-etf_gh_files.R`](R/get-etf_gh_files.R)
  
 ### 🧑‍💻 Let's code.
 
