@@ -1,6 +1,6 @@
 # CSULB Data Day at the Beach (2024)
 
-A collection of links and materials relevant to Danton Noriega-Goodwin's Breakout Session on Saturday, 2024-03-23, from 11:15 am - 12:15 pm in LA5.
+A collection of links and materials relevant to Danton Noriega-Goodwin's Breakout Session from Saturday, 2024-03-23.
 
 ## Presentation / Slides
 
