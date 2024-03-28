@@ -108,6 +108,10 @@ Design an R program that
   - Find `holdings` > Right-click *"Copy as cURL"*
 - Paste and interrogate!
 
+## 📺 Youtube Video
+
+{{< video https://youtu.be/2L42vLAiM28 width="1100" height="550" >}}
+
 ## Code
 
 [Session is complete, but here are the scripts!]
