@@ -101,14 +101,12 @@ Design an R program that
 ### Inspect `etf.com/voo`
 
 - Go to [etf.com/VOO](https://www.etf.com/VOO)
-  - *View Source / Show Web Inspector* (`cmd+alt+i `)
-  - Go to *Network*
+  - *View Source / Show Web Inspector* (`cmd+alt+i `) > *Network*
 - Click *Holdings*
   - Scroll down to *View All*
 - Web Inspector filter to *"XHR/Fetch"*
-  - Find `holdings`
-  - Right-click *"Copy as cURL"*
-- Paste and interrogate
+  - Find `holdings` > Right-click *"Copy as cURL"*
+- Paste and interrogate!
 
 ## Code
 
