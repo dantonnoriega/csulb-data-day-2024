@@ -10,8 +10,8 @@ A collection of links and materials relevant to Danton Noriega-Goodwin's Breakou
 
 ### R Scripts
 
--   [`R/get-etf_fund_holdings.R`](R/get-etf_fund_holdings.R)
--   [`R/get-etf_gh_files.R`](R/get-etf_gh_files.R)
+-   [`R/get-etf_fund_holdings.r`](R/get-etf_fund_holdings.r)
+-   [`R/get-etf_gh_files.r`](R/get-etf_gh_files.r)
 
 ## Resources
 
