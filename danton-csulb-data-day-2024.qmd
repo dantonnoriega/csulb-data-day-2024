@@ -92,9 +92,9 @@ Design an R program that
 
 - Safari
   - Menu *Settings (`⌘ ,`) > Advanced > "Show Web Features for Web Developers"*
-  - Menu *Develop > Show Web Inspector (`⌘ ⌥ i`)*
+  - Menu *Develop > Show Web Inspector (`⌥ ⌘ i`)*
 - Chrome
-  - Menu *View > Developer > "Developer Tools" (`⌘ ⌥ i`)*
+  - Menu *View > Developer > "Developer Tools" (`⌥ ⌘ i`)*
 
 ## Hack
 
