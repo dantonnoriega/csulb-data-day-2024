@@ -101,7 +101,7 @@ Design an R program that
 ### Inspect `etf.com/voo`
 
 - Go to [etf.com/VOO](https://www.etf.com/VOO)
-  - *View Source / Show Web Inspector* (`cmd+alt+i `) > *Network*
+  - *Developer Tools / Web Inspector* > *Network*
 - Click *Holdings*
   - Scroll down to *View All*
 - Web Inspector filter to *"XHR/Fetch"*
