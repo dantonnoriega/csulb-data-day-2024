@@ -91,14 +91,14 @@ Design an R program that
 ### Browser *Web Inspector*
 
 - Safari
-  - Menu *Settings (`cmd+,`) > Advanced > "Show Web Features for Web Developers"*
-  - Menu *Develop > Show Web Inspector (`cmd+alt+i`)*
+  - Menu *Settings (`⌘ ,`) > Advanced > "Show Web Features for Web Developers"*
+  - Menu *Develop > Show Web Inspector (`⌘ ⌥ i`)*
 - Chrome
-  - Menu *View > Developer > "Developer Tools" (`cmd+alt+i`)*
+  - Menu *View > Developer > "Developer Tools" (`⌘ ⌥ i`)*
 
 ## Hack
 
-### Inspect `etf.com/voo`
+### Inspect `etf.com/VOO`
 
 - Go to [etf.com/VOO](https://www.etf.com/VOO)
   - *Developer Tools / Web Inspector* > *Network*
