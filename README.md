@@ -13,6 +13,13 @@ A collection of links and materials relevant to Danton Noriega-Goodwin's Breakou
 -   [`R/get-etf_fund_holdings.r`](R/get-etf_fund_holdings.r)
 -   [`R/get-etf_gh_files.r`](R/get-etf_gh_files.r)
 
+### Screen Recording (Youtube)
+
+(Students asked if I could record myself exposing hidden API calls. The video is also embedded in the slides!)
+
+-   [How to reveal API calls using Chrome or Safari (youtube)](https://youtu.be/2L42vLAiM28)
+
+
 ## Resources
 
 ### Programming
